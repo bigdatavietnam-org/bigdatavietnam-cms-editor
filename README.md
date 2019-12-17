@@ -1,8 +1,8 @@
-# Developing a Single Page App with Flask and Vue.js
+# Content Editor for for BigDataVietnam.org version 2.0
 
-### Want to learn how to build this?
+### Purpose
 
-Check out the [post](https://testdriven.io/developing-a-single-page-app-with-flask-and-vuejs).
+Multimedia Content Editor 
 
 ## Want to use this project?
 
